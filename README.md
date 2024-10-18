@@ -10,9 +10,11 @@
 **SensingMachine** is an Arduino Uno MCU-based simulation of a group of simulated sensors.
 
 # Project Features
-- ultrasonic sensor
-- sound detector/sensor
-- LM35 sensor
+✔️ ultrasonic sensor
+
+✔️ sound detector/sensor
+
+✔️ Temperature sensor
 
 
 # Operation
